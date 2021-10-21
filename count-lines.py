@@ -1,8 +1,3 @@
-"""
-input
-output
-This models
-"""
 import sys
 count=0
 for line in sys.stin:
